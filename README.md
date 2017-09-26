@@ -11,17 +11,22 @@ The repo uses anaconda to create a virtual environment so that there is no confl
 First install conda if you have not already got it
 Visit https://conda.io/docs/user-guide/install/index.html for more info on how to do so
 
-Clone this repo
+1. Clone this repo
+
 ``git clone https://github.com/bkneis/PhotofaceDBExplorer && cd PhotofaceDBExplorer``
 
-Now create the anaconda environment
+2. Now create the anaconda environment
+
 ``conda env create -f environment.yml``
 
-Activate the environment
+3. Activate the environment
+
 ``source .env``
 
-To create the csv file for opencv examples, run:
+4. To create the csv file for opencv examples, run:
+
 ``python create_csv.py /path/to/photofacedb``
 
-To run the notebook locally:
+5. To run the notebook locally:
+
 ``jupyter notebook``
