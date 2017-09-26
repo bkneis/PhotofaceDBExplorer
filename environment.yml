@@ -4,3 +4,4 @@ dependencies:
 - anaconda
 - pip:
     - matplotlib
+    - Pillow
