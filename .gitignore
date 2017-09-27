@@ -2,4 +2,4 @@
 *.pyc
 .idea/*
 faces.csv
-./notebooks/.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/*
