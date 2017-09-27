@@ -1,6 +1,5 @@
 .ipynb_checkpoints/*
 *.pyc
 .idea/*
-#data/eigenfaces/*.png
-#data/fisherfaces/*.png
 faces.csv
+./notebooks/.ipynb_checkpoints/*
